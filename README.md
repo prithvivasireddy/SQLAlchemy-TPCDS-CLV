@@ -1,17 +1,16 @@
 SQLAlchemy-TPCDS-CLV:
 
-<try>
+#<.try.>
   
 For the queries (TPC-DS) - https://github.com/IBM/spark-tpc-ds-performance-test/tree/master/src/queries , build a Streamlit interface.
-Use Snowflake sqlalchemy in Python for this [1,2]
-Check the documentation[3] and implement the Qualification Substitution
+Use Snowflake sqlalchemy in Python for this 
+Check the documentationand implement the Qualification Substitution
 Parameters as variables.
 Review the metadata and implement only allowed values in your Streamlit
 implementation. i.e, validate your inputs. (For example, date fields need to only be
 valid values)
 
-Part 2:
-Implement the CLV calculations [4] and build a model.
+Implement the CLV calculations  and build a model.
 Host your model and build a streamlit interface so that you can invoke the following
 functions.
 Algorithmic Marketing2Develop a function that can give the performance( MAPE) for test and training
@@ -24,4 +23,4 @@ References:
 3. https://www.tpc.org/tpc_documents_current_versions/pdf/tpc-ds_v2.5.0.pdf
 4. https://github.com/Snowflake-Labs/snowpark-python-demos/tree/main/tpcds-customer-lifetime-value
 
-  </try>
+#<.try./>
