@@ -1,6 +1,6 @@
 SQLAlchemy-TPCDS-CLV:
 
-#<.try.>
+#try
   
 For the queries (TPC-DS) - https://github.com/IBM/spark-tpc-ds-performance-test/tree/master/src/queries , build a Streamlit interface.
 Use Snowflake sqlalchemy in Python for this 
@@ -23,4 +23,4 @@ References:
 3. https://www.tpc.org/tpc_documents_current_versions/pdf/tpc-ds_v2.5.0.pdf
 4. https://github.com/Snowflake-Labs/snowpark-python-demos/tree/main/tpcds-customer-lifetime-value
 
-#<.try./>
+#try
