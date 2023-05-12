@@ -1,0 +1,20 @@
+name: snowpark_xgboost_tpc
+channels:
+  - snowflake
+dependencies:
+  - python=3.8
+  - sqlalchemy
+  - snowflake-snowpark-python
+  - ipykernel
+  - pyarrow
+  - numpy
+  - scikit-learn
+  - pandas
+  - joblib
+  - cachetools
+  - xgboost
+  - pip:
+    - snowflake-sqlalchemy
+    - snowflake-connector-python
+    - streamlit-lottie
+    - plotly
