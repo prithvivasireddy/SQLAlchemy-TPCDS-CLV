@@ -1,4 +1,4 @@
-Link: https://ne-tpcds-customer-lifetime-valuecustomer-lifetime-value-au9kfr.streamlit.app
+Link: https://ne-tpcds-customer-lifetime-valuecustomer-lifetime-value-au9kfr.streamlit.app \\*deactivated*
 
 
 SQLAlchemy-TPCDS-CLV:
