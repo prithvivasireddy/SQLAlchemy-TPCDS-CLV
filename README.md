@@ -23,4 +23,4 @@ References:
 3. https://www.tpc.org/tpc_documents_current_versions/pdf/tpc-ds_v2.5.0.pdf
 4. https://github.com/Snowflake-Labs/snowpark-python-demos/tree/main/tpcds-customer-lifetime-value
 
-#try
+#try ..
